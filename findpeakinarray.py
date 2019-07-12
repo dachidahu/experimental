@@ -38,6 +38,7 @@ arr5 = [1,1,1]
 arr6 = [1,2,1,1,1]
 arr3 = [1]
 arr4 = [1,3]
-print find_peak(arr1) == find_peak_in_arbitary_arrary(arr1),find_peak(arr3) == find_peak_in_arbitary_arrary(arr3), find_peak(arr4) == find_peak_in_arbitary_arrary(arr4)
-print find_peak_in_arbitary_arrary(arr2),find_peak_in_arbitary_arrary(arr5),find_peak_in_arbitary_arrary(arr6)
+#print find_peak(arr1) == find_peak_in_arbitary_arrary(arr1),find_peak(arr3) == find_peak_in_arbitary_arrary(arr3), find_peak(arr4) == find_peak_in_arbitary_arrary(arr4)
+#print find_peak_in_arbitary_arrary(arr2),find_peak_in_arbitary_arrary(arr5),find_peak_in_arbitary_arrary(arr6)
 
+print find_peak(arr4)
